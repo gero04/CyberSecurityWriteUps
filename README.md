@@ -40,6 +40,7 @@ CyberSecurityWriteUps/
 |---|:---:|:---:|
 | [Root Me](https://www.root-me.org) | 2 | 2 |
 | [Software Seguro](https://softwareseguro.com.ar/) | 43 | 0 |
+| [Gandalf Lakera](https://gandalf.lakera.ai/)| 5 | 5 |
 
 ---
 

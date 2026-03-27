@@ -18,7 +18,9 @@ CyberSecurityWriteUps/
 │   └── WebClient/
 │       └── HTML - Disabled Buttons/
 │           └── README.md
-└── SoftwareSeguro/
+├── SoftwareSeguro/
+│   └── ...
+└── Lakera Gandalf AI
     └── ...
 ```
 
